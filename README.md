@@ -1,7 +1,7 @@
 ### Hello World... 👋
 
 - 🔭 I’m currently working on "several projects"
-- 🌱 I’m currently learning "SCRUM, React and Flutter"
+- 🌱 I’m currently learning "Javascript, React, Flutter and SCRUM"
 - 👯 I’m looking to collaborate on "share knowledge"
 - 🤔 I’m looking for help with "the ideia to work remote in an international project or company (new challenges in a job abroad)"
 
