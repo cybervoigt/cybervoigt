@@ -14,7 +14,10 @@
 
 ### About me...
 
-I'm a Brazilian Full Stack software developer with 20 years of experience, and I'm looking for new challenges in a job abroad.
+I'm a Brazilian Full Stack software developer with 20 years of experience.
+
+I have created web applications with the languages SQL, PHP, HTML, CSS and Javascript.
+
   
 <a href="https://www.linkedin.com/in/ricardo-voigt-software/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
