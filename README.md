@@ -18,6 +18,7 @@ I'm a Brazilian Full Stack software developer with 20 years of experience.
 
 I have created web applications with the languages SQL, PHP, HTML, CSS and Javascript.
 
+Today my focus is on the PHP Laravel Framework.
   
 <a href="https://www.linkedin.com/in/ricardo-voigt-software/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
